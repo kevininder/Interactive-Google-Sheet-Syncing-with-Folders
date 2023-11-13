@@ -1,4 +1,5 @@
 # Interactive-Google-Sheet-Syncing-with-Folders
+A straightforward approach to make your Google Sheet interactive and responsive. Simply choose the range of table contents you prefer and adjust the settings to your liking. For more details, follow the instruction down below and comments in the codes.
 
 ## How to use it
 1. Implement it on Google Apps Script.
