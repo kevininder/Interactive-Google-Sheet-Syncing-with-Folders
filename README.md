@@ -1,5 +1,7 @@
 # Interactive-Google-Sheet-Syncing-with-Folders
-A straightforward approach to make Google Sheet interactive and responsive. Use Google Sheet built-in search function to pinpoint the searching files, conditional formatting from the Format drop-down menu to customize the options, Google Apps Script to design code to sync with the folder on the drive, and in combinaton of Trigger function to realize auto-refresh functionality.
+A straightforward approach to make Google Sheet interactive and responsive. 
+
+Use Google Sheet built-in search function to pinpoint the searching files, conditional formatting from the Format drop-down menu to customize the options, Google Apps Script to design code to sync with the folder on the drive, and in combinaton of Trigger function to realize auto-refresh functionality.
 
 ## Note
 1. You need to be the owner of the folder in order to do the sync part, or at least have permission of it.
