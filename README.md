@@ -1,11 +1,10 @@
 # Interactive-Google-Sheet-Syncing-with-Folders
-A straightforward approach to make your Google Sheet interactive and responsive. Simply choose a range of table contents you prefer and adjust the settings to your liking. For more details, follow the instruction down below and comments in the codes.
+A straightforward approach to make Google Sheet interactive and responsive. Use Google Sheet built-in search function to pinpoint the searching files, conditional formatting from the Format drop-down menu to customize the options, Google Apps Script to design code to sync with the folder on the drive, and in combinaton of Trigger function to realize auto-refresh functionality.
 
-## How to use it
-1. Implement it on Google Apps Script.
-2. Specify a folder you want to sync with.
-3. Use Trigger to automatically refresh the sheet.
-4. To make it interactive, check out conditional formatting.
+## Note
+1. You need to be the owner of the folder in order to do the sync part, or at least have permission of it.
+2. This method is perfect for a decent size of data and practical for a medium dataset. The bigger, the laggier.
+3. Check out the link down below for more details.
 
 ## Example
 [Taiwan Bar's Music Library](https://docs.google.com/spreadsheets/d/1RLo1Y9OzFNNWZPZKUw5-CCTOyPRZC9k1DWeHrumY-UA/edit#gid=221825114)
